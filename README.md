@@ -14,4 +14,10 @@ Currently an intern at U2is.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff" />
 </p>
+
+
+### Profile
+
+![My stats](https://github-readme-stats.vercel.app/api?username=augustin-bresset&show_icons=true&theme=transparent)
