@@ -1,11 +1,11 @@
 ## Hello
 
-Currently an intern at U2is working on traversability models for Robots ! 
+Currently a research intern at U2IS, working on traversability estimation for autonomous robots.
 
-Go take a look at [apairo](https://github.com/apairo-robotics/apairo), a tools I am currently developing for a better management of data pipeline in robotics :D
-
+Take a look at [Apairo](https://github.com/apairo-robotics/apairo), a tool I'm currently developing for robotics data pipelines.
 
 ### Some tech I work with
+#### Main
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -14,13 +14,13 @@ Go take a look at [apairo](https://github.com/apairo-robotics/apairo), a tools I
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+#### Framework
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=Odoo&logoColor=fff)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-
+#### Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,13 +34,9 @@ Go take a look at [apairo](https://github.com/apairo-robotics/apairo), a tools I
 
 ### Profile
 
-![](https://github-readme-stats.vercel.app/api?username=augustin-bresset&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=augustin-bresset&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin-bresset&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-
-## GitHub
-![](https://github-profile-trophy.vercel.app/?username=augustin-bresset&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ## ![Codingame](https://www.codingame.com/profile/657bef4003ef939f0ea7e6a9330b7f417705164)
 
