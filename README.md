@@ -1,9 +1,9 @@
-## Hi there  
+## Hello
 
-Currently an intern at U2is. 
+Currently an intern at U2is working on traversability models for Robots ! 
 
-* TSP - Statistical Modeling and Applications (MSA)
-* Master 2 Data Science at X | IPP 
+Go take a look at [apairo](https://github.com/apairo-robotics/apairo), a tools I am currently developing for a better management of data pipeline in robotics :D
+
 
 ### Some tech I work with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
