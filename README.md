@@ -4,6 +4,10 @@ Currently a research intern at U2IS, working on traversability estimation for au
 
 Take a look at [Apairo](https://github.com/apairo-robotics/apairo), a tool I'm currently developing for robotics data pipelines.
 
+And here some tools for labeling robot's data : 
+* [Toaster](https://github.com/augustin-bresset/toaster)
+* [Splasher](https://github.com/augustin-bresset/splasher)
+
 ### Some tech I work with
 #### Main
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
