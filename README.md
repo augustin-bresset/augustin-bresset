@@ -2,6 +2,8 @@
 
 Currently a research intern at U2IS, working on traversability estimation for autonomous robots.
 
+Come visit my [world](https://augustin-bresset.github.io/) :D 
+
 Take a look at [Apairo](https://github.com/apairo-robotics/apairo), a tool I'm currently developing for robotics data pipelines.
 
 And here some tools for labeling robot's data : 
